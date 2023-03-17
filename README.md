@@ -22,4 +22,4 @@ Si usa un'espressione lambda per creare una funzione anonima. Usare l'operatore 
   L'istruzione lock acquisisce il blocco a esclusione reciproca per un oggetto specificato, esegue un blocco di istruzioni e quindi rilascia il blocco. Mentre è attivo un blocco, il thread che contiene il blocco può ancora acquisire e rilasciare il blocco. Gli altri thread non possono acquisire il blocco e devono attendere finché il blocco non viene rilasciato. L'istruzione lock garantisce che un singolo thread abbia accesso esclusivo a tale oggetto.
   
   
-*le informazioni sono state prese per lo più da professor Maurizio Conti e dal sito microsoft.com*
+//le informazioni sono state prese per lo più da professor Maurizio Conti e dal sito microsoft.com
