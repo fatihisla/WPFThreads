@@ -11,6 +11,8 @@ Sono sotto-processi che posso eseguirsi in parallelo o in serie ad'altri. Per fa
 -Sleep:
 Questo comando serve per sospendere il thread corrente per i millisecondi che andiamo ad indicare.
 
+![image](https://user-images.githubusercontent.com/116791165/231689093-30ac0959-5e2a-444c-b3f9-f7ae573a50df.png)
+
 -LAMBDA:
 Si usa un'espressione lambda per creare una funzione anonima. Usare l'operatore di dichiarazione lambda => per separare l'elenco di parametri dell'espressione lambda dal corpo. Un'espressione lambda può essere di una delle due forme seguenti:
 
@@ -22,8 +24,4 @@ Si usa un'espressione lambda per creare una funzione anonima. Usare l'operatore 
   L'istruzione lock acquisisce il blocco a esclusione reciproca per un oggetto specificato, esegue un blocco di istruzioni e quindi rilascia il blocco. Mentre è attivo un blocco, il thread che contiene il blocco può ancora acquisire e rilasciare il blocco. Gli altri thread non possono acquisire il blocco e devono attendere finché il blocco non viene rilasciato. L'istruzione lock garantisce che un singolo thread abbia accesso esclusivo a tale oggetto.
 
 
-![image](https://user-images.githubusercontent.com/116791165/231688470-97fabc1a-86c5-4e4b-b6e1-f386df3bbec3.png)
-
-  
-  
 //le informazioni sono state prese per lo più da professor Maurizio Conti e dal sito microsoft.com
