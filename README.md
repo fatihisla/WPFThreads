@@ -13,7 +13,7 @@ Questo comando serve per sospendere il thread corrente per i millisecondi che an
 
 ![image](https://user-images.githubusercontent.com/116791165/231689093-30ac0959-5e2a-444c-b3f9-f7ae573a50df.png)
 
--LAMBDA:
+-LAMBDA ESPRESSION:
 Si usa un'espressione lambda per creare una funzione anonima. Usare l'operatore di dichiarazione lambda => per separare l'elenco di parametri dell'espressione lambda dal corpo. Un'espressione lambda può essere di una delle due forme seguenti:
 
 (input-parameters) => { <sequence-of-statements> }
